@@ -116,7 +116,7 @@ p
 .sidebar-nav li
 {
   line-height:30px;
-  text-indent:40px;
+  text-indent:-10px;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:200;
   color:#9c9c9c;
@@ -214,6 +214,12 @@ blockquote
   margin-right:-40px;
   padding-left:40px;
   background:#f3f3f7
+}
+
+#sidebar-brand-ul{
+    list-style:none;
+    width:300px;
+    font-size:15px;
 }
 
 ul,ol
@@ -753,4 +759,7 @@ time
 }
 
 }
+
+
+
 
