@@ -3,16 +3,13 @@ author: Purser Technology
 
 github: http://www.github.com/roypur
 email: post@purser.technology
-location: 42°2'16"N   70°12'47"W
+location: 59°55'44.0400"N 011°04'06.2400"W
 disqus: diqus-username
 
 ##Make sure to edit the above fields, especially for disqus.
 
 
 highlighter: pygments
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables"]
 
 defaults:
   - scope:
